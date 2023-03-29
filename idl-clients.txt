@@ -1,0 +1,8 @@
+104.205.210.8 # Ryland - Thu Feb 17 13:30:14 2022
+117.212.228.226 # Ryland - Thu Feb 17 13:30:14 2022
+72.255.0.0/16 # TornadoTrucks Dev Pakistan
+119.155.0.0/16 # TornadoTrucks Dev Pakistan
+39.42.0.0/16 # TornadoTrucks Dev Pakistan
+93.78.206.197 # TornadoTrucks Dev 
+62.122.207.207 # TornadoTrucks Dev 
+179.52.0.0/16 #Jreviews-Galavante
